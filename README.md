@@ -20,14 +20,14 @@
 
 ## - Languages
 <div align="inline">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40px"/>
-<img alt="C" src="https://img.shields.io/badge/C-ffb703?style=for-the-badge&logo=c&logoColor=black" height="40px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  height="40px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40px"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40px"/>
-<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40px"/>
-<img alt="Html" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="40px"/>
-<img alt="Css" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="40px"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-ffb703?style=for-the-badge&logo=c&logoColor=black"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Html" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black"/>
+<img alt="Css" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black"/>
 </div>
 
 ## - Frameworks
@@ -58,7 +58,7 @@
 <div align="inline">
  <img src="https://img.shields.io/badge/Heroku-6930c3?style=for-the-badge&logo=Heroku&logoColor=white" />
  <img src="https://img.shields.io/badge/Netlify-64dfdf?style=for-the-badge&logo=Netlify&logoColor=white" />
- <img src="https://img.shields.io/badge/vercel-vercel-informational" />
+ <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 ## 🟢 My Stats✨
