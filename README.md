@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I play Football, Badminton and also watch e-sports.**
 
 ## Coding Practice Handles: 
-<a href="https://leetcode.com/VishalArora14" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vishalarora14" height="50"/>
+<a href="https://leetcode.com/VishalArora14" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vishalarora14" height="40"/>
 
 ## 🛠️ Technologies and Tools I've used:
 
