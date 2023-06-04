@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I play Football, Badminton and also watch e-sports.**
 
 ## Coding Practice Handles: 
-<a href="https://leetcode.com//VishalArora14" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vishalarora14" height="30"/>
+<a href="https://leetcode.com/VishalArora14" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vishalarora14" height="50"/>
 
 ## 🛠️ Technologies and Tools I've used:
 
@@ -20,14 +20,14 @@
 
 ## - Languages
 <div align="inline">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="C" src="https://img.shields.io/badge/C-ffb703?style=for-the-badge&logo=c&logoColor=black" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
-<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
-<img alt="Html" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="25px"/>
-<img alt="Css" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="25px"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40px"/>
+<img alt="C" src="https://img.shields.io/badge/C-ffb703?style=for-the-badge&logo=c&logoColor=black" height="40px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  height="40px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40px"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40px"/>
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40px"/>
+<img alt="Html" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="40px"/>
+<img alt="Css" src="https://img.shields.io/badge/ExpressJs-ffc857?style=for-the-badge&logo=express&logoColor=black" height="40px"/>
 </div>
 
 ## - Frameworks
