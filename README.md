@@ -62,9 +62,9 @@
 </div>
 
 ## 🟢 My Stats✨
-[![Vishal GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalArora14&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalArora14&theme=highcontrast&show_icons=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalArora14&theme=highcontrast" />
+[![Vishal GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalArora14&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalArora14&theme=tokyonight&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalArora14&theme=tokyonight" />
 
 
 <h3 align="left">Connect with me:</h3>
