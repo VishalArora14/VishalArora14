@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 😃, I'm Vishal Arora</h1>
 <h3 align="center">Student and passionate developer from India.</h3>
 
-- I'm pre-final year student
+- I'm final year student
 - I’m currently exploring different domains like **Machine Learning**
 - I have good knowledge of Data Structures and Algorithms and also exploring Competitive Programming.
 - I have made some good projects in Web Development using MERN Stack
